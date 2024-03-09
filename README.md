@@ -1,4 +1,4 @@
-![image](https://github.com/minhswe/academic-management-and-test-taking/assets/137794342/34cff325-1ca0-4c07-8f6b-7a42ac771ff6)# academic-management-and-test-taking
+# academic-management-and-test-taking <br/>
 On the administrative side, it is possible to manage classes, courses, topics, questions and tests, on the student side, they can register courses, take the test (both single and multiple choice) and review the results. C# with Entity framework, SQL 
 
 -- Introduction -- <br/>
