@@ -1,0 +1,158 @@
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Admin.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.StudentRegisterForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.LoginForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.ImportClass.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.StudentForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem\ExaminationSystem\obj\Debug\ExaminationSystem.ExamForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\EntityFramework.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\EntityFramework.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.Admin.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.ExamForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.ImportClass.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.StudentForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.StudentRegisterForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.LoginForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Copy\ExaminationSystem\obj\Debug\Testtttt.StudentForm1.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.Admin.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.ExamForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.ImportClass.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\Testtttt.StudentForm1.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.StudentForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.StudentRegisterForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.LoginForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\EntityFramework.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\EntityFramework.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final\ExaminationSystem\obj\Debug\DangKiDangNhap.ExamResult.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\EntityFramework.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\EntityFramework.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.Admin.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.ExamForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.ImportClass.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\DangKiDangNhap.ExamResult.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\Testtttt.StudentForm1.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.StudentForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.StudentRegisterForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.LoginForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - fixdatagridview\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\EntityFramework.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\EntityFramework.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.SuggestedBindingRedirects.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.Admin.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.ExamForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.ImportClass.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\DangKiDangNhap.ExamResult.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\Testtttt.StudentForm1.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.StudentForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.StudentRegisterForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.LoginForm.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\VLU-HK01-2023-2024\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\ExaminationSystem.exe.config
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\ExaminationSystem.pdb
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\EntityFramework.dll
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\EntityFramework.xml
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.AssemblyReference.cache
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.Admin.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.ExamForm.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.ImportClass.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\DangKiDangNhap.ExamResult.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\Testtttt.StudentForm1.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.StudentForm.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.StudentRegisterForm.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.LoginForm.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.Properties.Resources.resources
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.GenerateResource.cache
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CoreCompileInputs.cache
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.csproj.CopyComplete
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.exe
+D:\VLU-Software-Engineering\year-2\HK01-2324\object-oriented-programming\final\ExaminationSystem - Final - Working\ExaminationSystem\obj\Debug\ExaminationSystem.pdb
